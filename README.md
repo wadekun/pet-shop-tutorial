@@ -7,6 +7,14 @@ https://xiaozhuanlan.com/topic/4875690231
 运行截图：
 ![](./imgs/pet-shop-main.jpeg)
 
+## 项目目录结构
+
+`contracts/` 智能合约     
+`migrations/` 用来处理部署、迁移的合约  
+`src/` 应用代码  
+`test/` 智能合约测试用例  
+`truffle.js` 配置文件
+
 # 知识点
 ## `Ethereum（以太坊）`
     区块链开发运行平台，对区块链进行了封装，提供了各种开发区块链应用的工具。
